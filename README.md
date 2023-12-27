@@ -20,5 +20,13 @@ Venture Capital Firm: At a VC firm, I delved into the backend and frontend aspec
 📫 How to Reach Me
   Feel free to connect with me on [LinkedIn](url)
 
-📚 Fun Fact
-  When I'm not coding or studying, you'll find me exploring the latest in tech startups or brainstorming my next project idea.
+🌟 External Projects and Contributions
+Quebec Engineering Competition Finale - Staffing Website for a circus company
+      As part of the finale for the Quebec Engineering Competition, I collaborated with a team of four to develop a website for a circus company. This project was a blend of creativity and technical             expertise, aimed at showcasing our ability to build functional and innovative digital solutions.
+    My Contributions:
+      My primary focus in this project was on developing an efficient alert system integrated into the website. This system was designed to enhance staff coordination by automating the process of sending        staffing schedules. Key highlights of my role included:
+          Implementing an alert system that could text staffing schedules to employees.
+          Integrating email functionalities through various APIs for efficient communication.
+          Collaborating closely with the team to ensure seamless integration of the alert system with the website's overall functionality.
+    [View the Project](https://github.com/NicDole/QEC2023-McGill)
+    Disclaimer: This repository is a fork of the original project created for the Quebec Engineering Competition.
