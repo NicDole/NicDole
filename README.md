@@ -35,3 +35,25 @@ My primary focus in this project was on developing an efficient alert system int
 
 ##### Disclaimer
 This repository is a fork of the original project created for the Quebec Engineering Competition. 
+
+#### 🛠️ Canadian Engineering Competitions Finale: Resource Allocation Challenge
+In a team of four at the Canadian Engineering Competition, we faced the intricate challenge of resource allocation under scarcity constraints. The primary goal was to ensure that each country received at least one essential resource from their list of needs, despite limited availability.
+
+##### Project Context
+The competition involved devising multiple algorithms, each tailored to a unique aspect of resource distribution. My responsibility was to create an algorithm that distributes resources based on each country's individual needs and the overall availability, ensuring that every country would receive at least one "element" of the resources they required — be it water, medicine, wood, etc.
+
+##### My Contributions
+As one of four team members, I crafted an algorithm that:
+- Analyzed the needs and resource requests of each country using the data provided.
+- Prioritized the allocation such that each country received at least one of the resources they needed, meeting the bare minimum requirement in the face of scarcity.
+- Managed the selection of which specific resource to allocate to each country, optimizing the distribution to maximize the number of countries served.
+
+##### Technical Approach
+- **Data Analysis & Management**: Used `pandas` for data manipulation, assessing country needs and resource availability.
+- **Algorithm Development**: Engineered a weighted algorithm to strategically allocate scarce resources.
+- **Optimization & Testing**: Conducted numerous iterations to determine the ideal weights for the allocation variables, balancing the distribution across countries.
+
+[Explore the Algorithm](https://github.com/NicDole/CEC2023-McGill)
+
+##### Disclaimer
+This description abstracts the complexity of the task to comply with the competitive and confidential nature of the competition. The provided code is a high-level overview of the algorithmic approach I developed for resource distribution. Each team member worked independently on different algorithms, and mine focused on need-based allocation to ensure equitable distribution across countries.
